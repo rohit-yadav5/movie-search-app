@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Failed project of creating movie search app using react but you can still see it below
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
